@@ -1,4 +1,4 @@
-# Charlie·Zara
+# Charlie
 
 <!-- .slide -->
 
