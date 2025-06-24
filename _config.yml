@@ -13,7 +13,7 @@ defaults: # 将所有配置选项使用<https://jekyllrb.com/docs/configuration/
               Loading comments...
             </div>
             <script src="https://giscus.app/client.js"
-              data-repo="wu-kan/wu-kan.github.io"
+              data-repo="DavyJonesZ/CharlieZara.github.io"
               data-repo-id="MDEwOlJlcG9zaXRvcnkxNzIxMzc1OTQ="
               data-category="Announcements"
               data-category-id="DIC_kwDOCkKces4Clz9j"
