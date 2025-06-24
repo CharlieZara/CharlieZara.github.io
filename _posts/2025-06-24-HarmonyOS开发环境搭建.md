@@ -16,7 +16,7 @@ macOS (X86) versions 10.15 and above, macOS (ARM) versions 11 and above
 DevEco Studio is built based on the open-source version of IntelliJ IDEA Community, providing a one-stop development platform for applications and services on the HarmonyOS and OpenHarmony systems.
 ### 1.1.下载DevEco Studio
 - Visit the official website of Huawei Developer Alliance: https://developer.harmonyos.com
-![huawei site](https://i-blog.csdnimg.cn/direct/e5765bf4fa024eed86981d934b9bf5f6.png)
+![enter description here](./images/e5765bf4fa024eed86981d934b9bf5f6.png)
 
 - Enter the "Development" section and select "Download DevEco Studio"
 
